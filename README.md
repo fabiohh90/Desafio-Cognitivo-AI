@@ -1,7 +1,7 @@
 # Desafio Cognitivo AI
  Desafio para o processo seletivo de Cognitivo AI
 
-Neste desafio foi treinado um modelo de predição de preço de locações, utilizando a base de dados de Arbnb do Rio de Janeiro, correspondente a informações de fevereiro de 2021. 
+Neste desafio foi treinado um modelo de predição de preço de locações, utilizando a base de dados de Arbnb do Rio de Janeiro, correspondente a informações de fevereiro de 2021. Disponível no link: http://insideairbnb.com/get-the-data.html. E anexas no arquivo 'listing.csv'.
 
 O arquivo: price_regressor.ipynb contem todas as etapas utilizadas para esta modelagem, desde o pré processamento dos dados, tratamento de missings, extração de informações com regular_expressions, analises de PCA, treinamento de vários modelos, e analises out-of-sample para seleção do melhor modelo.
 
